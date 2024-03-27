@@ -4,7 +4,7 @@ const CONFIG = {
     name: "visionnoob",
     image: "/lena.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "AI Research Engineer",
-    bio: "I develop everything using node.",
+    bio: "Computer Vision",
     email: "visionnoob@gmail.com",
     github: "visionnoob",
     linkedin: "visionnoob",
@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "VisioNoob",
+    description: "welcome!",
   },
 
   // CONFIG configration (required)
